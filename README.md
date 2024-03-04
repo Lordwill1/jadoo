@@ -1,3 +1,5 @@
+![image](https://github.com/Lordwill1/jadoo/assets/105258746/ee463e10-9106-4c44-bac6-ce3ba21af7e5)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
